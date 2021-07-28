@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diptesh
-- 👀 I’m interested in full stack development , docker.
+- 👀 I’m interested in full stack development , data analytics.
 - 🌱 I’m currently working at Cognizant on technologies like flask, radis, rabbitmq, sqlite, docker.
 - 📫 How to reach me - https://www.linkedin.com/in/diptesh-roy
 
