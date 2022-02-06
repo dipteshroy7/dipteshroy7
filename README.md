@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diptesh
-- 👀 I’m interested in full stack development .
+- 👀 I’m interested in frontend development .
 - 🌱 I’m currently working at Cognizant on technologies like HTML, CSS, Advance JavaScript, ReactJS, MongoDB, Flask, Docker.
 - 📫 How to reach me - https://www.linkedin.com/in/diptesh-roy
 
