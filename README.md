@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diptesh
 - 👀 I’m a Frontend Software Engineer.
-- 🌱 I have worked on technologies like HTML, CSS, Advance JavaScript, ReactJS, Angular, AngularJS, NodeJS, MongoDB, Flask, Docker, Git.
+- 🌱 I have worked on technologies like HTML, CSS, Advance JavaScript, ReactJS, NodeJS, MongoDB, Flask, Docker and Git.
 - 📫 How to reach me - https://www.linkedin.com/in/diptesh-roy
 
 <!---
